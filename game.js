@@ -4,7 +4,7 @@ const player_diam = 10;
 const enemy_diam = 10;
 const player_color = "DeepSkyBlue";
 const enemy_color = "red";
-const player_speed = 225;
+const player_speed = 250;
 const enemy_speed = 200;
 const text_color = "#2ecc71";
 /* Debug variables */
