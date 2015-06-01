@@ -1,2 +1,2 @@
 # escape2
-A remade edition of my first Escape game.
+A remake of my [first Escape game](http://github.com/jackdalton/escape).
